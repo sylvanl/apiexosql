@@ -1,0 +1,24 @@
+{
+  "name": "apiexosql",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-key-auth": "^0.2.3",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "joi": "^17.4.0",
+    "json-stringify": "^1.0.0",
+    "knex": "^0.95.2",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
